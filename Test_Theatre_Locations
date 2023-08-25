@@ -1,0 +1,15 @@
+Coding exercise: We want to automate a test case to validate the top 10 nearest theatres to user's location.
+
+Preferred Languages: C# , Java , Python
+
+Question:
+
+
+	Go to https://www.cineplex.com, then click on the 'THEATRES' button at top right. We see an alert box that prompts user to allow Location access. Click on "Allow" and validate that the theatres list that loads, has 10 theatres close to you. 
+
+
+
+ Conditions:
+
+
+ Please use xpath while locating your elements

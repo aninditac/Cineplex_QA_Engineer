@@ -1,0 +1,17 @@
+Coding exercise: We want to automate a test case to validate our login functionality.
+
+Preferred Languages: C# , Java , Python
+
+Question:
+
+
+	Go to https://www.cineplex.com, then click on the 'ACCOUNT' button at top right. The Login panel opens, click on the login button. Enter username "cineplexac3@gmail.com" and password "P93Qse!hJ02!" and then click on Login. Please add validations for the logged in user.
+
+
+
+ Conditions:
+
+
+ Please use xpath while locating your elements
+
+	

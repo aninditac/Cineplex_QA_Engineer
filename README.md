@@ -1,11 +1,5 @@
 # Cineplex_QA_Engineer
 
-Welcome to the Cineplex QA Engineer Interview. Here is an example coding exercise where we want to automate a test case to validate the presence of our Create One account page.  
+Welcome to the Cineplex QA Engineer Interview. You are welcome to use any of the 3 languages such as C# , Python, Java. We will be walking through the use cases in the coding exercise to provide a better 
 
-Question:
-	Go to https://www.cineplex.com then click on the link 'ACCOUNT' at top right. Use xpath to locate the link "Create one." below the button 'LOGIN'?
 
- 
-Conditions:
-	1. you can't use class to locate.
-	2. You can't use text 'Create one.'.
